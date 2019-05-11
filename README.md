@@ -1,6 +1,6 @@
 # Simple Calculator App
 
-This is a very simple, single component, calculator app using VueJS. This app supports simple mathematical operations 
+This is a simple, calculator app using VueJS. This app supports simple mathematical operations 
 
 ## How to Run
 
