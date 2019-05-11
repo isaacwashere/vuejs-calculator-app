@@ -1,29 +1,19 @@
-# calculator-app
+# Simple Calculator App
 
-## Project setup
-```
-npm install
-```
+This is a very simple, single component, calculator app using VueJS. This app supports simple mathematical operations 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to Run
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Navigate to Terminal
 
-### Run your tests
-```
-npm run test
-```
+> open directory in your Terminal
 
-### Lints and fixes files
-```
-npm run lint
-```
+2. Start the server:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> type "npm run serve" OR "yarn serve
+
+> press "enter"
+
+3. View the app:
+
+> open localhost:8080 in your browser (might open automatically)
