@@ -10,7 +10,7 @@ This is a very simple, single component, calculator app using VueJS. This app su
 
 2. Start the server:
 
-> type "npm run serve" OR "yarn serve
+> type "npm run serve" OR "yarn serve"
 
 > press "enter"
 
