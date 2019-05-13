@@ -39,7 +39,7 @@ This is a simple, calculator app using VueJS. This app supports simple mathemati
 
 ## Future Implementation(s)
 
-* Make the numbers stick and appear to the right, instead of the center
+* Make the numbers appear to the right, instead of the center
 * When a user clicks on a number/operation/button, the view should respond accordingly 
 * Make the clear button completely erase the existence of the previous number and not save it
 * Make the UI nicer, maybe a background image, or a sign that they are in a calculator app
