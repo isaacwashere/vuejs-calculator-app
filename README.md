@@ -41,7 +41,8 @@ This is a simple, calculator app using VueJS. This app supports simple mathemati
 
 * Make the numbers stick and appear to the right, instead of the center
 * When a user clicks on a number/operation/button, the view should respond accordingly 
-* Make the UI nicer, maybe a background images
+* Make the clear button completely erase the existence of the previous number and not save it
+* Make the UI nicer, maybe a background image, or a sign that they are in a calculator app
 * Make a viewable History of operations so a user can see all the operations they make 
   - make it in real time, so they can see changes (and don't have to remember what they typed)
 * Implement Testing 
