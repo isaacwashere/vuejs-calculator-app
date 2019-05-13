@@ -23,7 +23,7 @@ This is a simple, calculator app using VueJS. This app supports simple mathemati
 ## Abilities & Features
 
 * A user can add, subtract, multiply, divide, take the percent of any positive and/or negative number 
-* The answer is displayed in the calculator UI
+* Each number and the answer is displayed in the calculator UI
 
 
 ## Notable Technologies/Functions/Methods
